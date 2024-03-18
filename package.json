@@ -5,5 +5,12 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^7.2.0",
+		"@typescript-eslint/parser": "^7.2.0",
+		"dprint": "^0.45.0",
+		"eslint": "^8.57.0",
+		"eslint-define-config": "^2.1.0"
+	}
 }
